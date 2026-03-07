@@ -4,4 +4,4 @@
 
 - By OMERTA & Aptx
 
-- [C2P](https://discord.gg/NU7ZdZEXEP) [APTX](https://discord.gg/DxuCqFjpFA)
+- [C2SP](https://discord.gg/NU7ZdZEXEP) [APTX](https://discord.gg/DxuCqFjpFA)
