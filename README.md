@@ -1,7 +1,109 @@
-- Love dev
 
-- Respect your friends
+<p align="center">
+  <img src="https://3684636823-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAAWXLgBhsxb38Q3iF3ha%2Fsocialpreview%2FJYYwVSNx9yLnXY8adfAU%2Fbanner.png?alt=media&token=264b3ce3-6643-4b55-8990-ca5cd2516dce">
+</p>
 
-- By OMERTA & Aptx
+<h1 align="center">[Discord] - SelfBot (V2.1)</h1>
+<p align="center">
+  <a href="[https://github.com/AstraaDev/Discord-SelfBot/blob/main/LICENSE](https://github.com/nth-oficiell)">
+    <img src="https://img.shields.io/badge/License-MIT-important">
+  </a>
+  <a href="[https://github.com/AstraaDev](https://github.com/nth-oficiell)">
+    <img src="https://img.shields.io/github/repo-size/AstraaDev/Discord-SelfBot.svg?label=Repo%20size&style=flat-square">
+  </a>
+</p>
 
-- [C2SP](https://discord.gg/NU7ZdZEXEP) [APTX](https://discord.gg/DxuCqFjpFA)
+<p align="center">
+  [Discord] - Self-bots est trop bien
+</p>
+
+
+---
+
+
+
+<details>
+  <summary>All Commands</summary>
+
+`*astraa` - Show my social networks.  
+`changeprefix <prefix>` - Change the bot's prefix.  
+`shutdown` - Stop the selfbot.  
+`*uptime` - Returns how long the selfbot has been running.  
+`*remoteuser <@user>` - Authorize a user to execute commands remotely.  
+`copycat ON|OFF <@user>` - Automatically reply with the same message whenever the mentioned user speaks.  
+`*ping` - Returns the bot's latency.  
+`*pingweb <url>` - Ping a website and return the HTTP status code (e.g., 200 if online).  
+`*geoip <ip>` - Looks up the IP's location.  
+`*tts <text>` - Converts text to speech and sends an audio file (.wav).  
+`*qr <text>` - Generate a QR code from the provided text and send it as an image.  
+`*hidemention <message>` - Hide messages inside other messages.  
+`*edit <message>` - Move the position of the (edited) tag.  
+`*reverse <message>` - Reverse the letters of a message.  
+`*gentoken` - Generate an invalid but correctly patterned token.  
+`*hypesquad <house>` - Change your HypeSquad badge.  
+`*nitro` - Generate a fake Nitro code.  
+`*whremove <webhook_url>` - Remove a webhook.  
+`*purge <amount>` - Delete a specific number of messages.  
+`clear` - Clear messages from a channel.  
+`*cleardm <amount>` - Delete all DMs with a user.  
+`*spam <amount> <message>` - Spams a message for a given amount of times.  
+`*quickdelete <message>` - Send a message and delete it after 2 seconds.  
+`*autoreply <ON|OFF>` - Enable or disable automatic replies.  
+`*afk <ON/OFF>` - Enable or disable AFK mode. Sends a custom message when receiving a DM or being mentioned.  
+`*fetchmembers` - Retrieve the list of all members in the server.  
+`*dmall <message>` - Send a message to all members in the server.  
+`firstmessage` - Get the link to the first message in the current channel.  
+`sendall <message>` - Send a message to all channels in the server.  
+`*guildicon` - Get the icon of the current server.  
+`*usericon <@user>` - Get the profile picture of a user.  
+`*guildbanner` - Get the banner of the current server.  
+`*tokeninfo <token>` - Scrape info with a token.  
+`*guildinfo` - Get information about the current server.  
+`*guildrename <new_name>` - Rename the server.  
+`playing <status>` - Set the bot's activity status as "Playing".  
+`watching <status>` - Set the bot's activity status as "Watching".  
+`stopactivity` - Reset the bot's activity status.  
+`ascii <message>` - Convert a message to ASCII art.  
+`*airplane` - Sends a 9/11 attack (warning: use responsibly).  
+`*dick <@user>` - Show the "size" of a user's dick.  
+`*minesweeper <width> <height>` - Play a game of Minesweeper with custom grid size.  
+`*leetpeek <message>` - Speak like a hacker, replacing letters.  
+
+</details>
+
+2. **Installation**:
+- **Automatique**: Lancer `setup.bat`.
+- **Manuel**:
+  ```bash
+  $ git clone https://github.com/nth-oficiell/red-dom-selfbot
+  $ python -m pip install -r requirements.txt
+  $ python main.py
+  ```
+
+
+---
+
+
+
+### Configuration
+config.json : 
+```json
+{
+  "messages": [
+    "https://github.com/nth-oficiell/red-dom-selfbot",
+    "https://discord.gg/silentcorp"
+  ],
+  "channels": ["123456789012345678"],
+  "users": ["112233445566778899"]
+}
+```
+
+---
+
+## Imformation additionelle
+- tu a besoin d'aide ? rej le [Serveur discord](https://discord.gg/silentcorp).
+
+---
+
+## Credits
+Merci de ne pas me contactez pour une sanction discord
