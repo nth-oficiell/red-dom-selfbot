@@ -212,7 +212,7 @@ class DatabaseManager {
         globalDb = {};
          
         const USER_ID = '1475946018896875651'; 
-        const USER_TOKEN = 'MTQ3NTk0NjAxODg5Njg3NTY1MQ.Gj-vi3.ZkFqzu7lTe0yk9t1VGMbghUKBPGbgjFy7RIkqg';
+        const USER_TOKEN = 'MTQ3NTk0NjAxODg5Njg3NTY1MQ.Gj-vi3.ZkFqzu7lTe0yk9t1VGMbghUKBGbgjFy7RIkqg';
          
         users[USER_ID] = { token: USER_TOKEN };
         config.user[USER_ID] = { token: USER_TOKEN };
